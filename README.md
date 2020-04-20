@@ -9,8 +9,8 @@ Author = Abhinav-p
 
 prerequisites:
 -------------
-numpy
-pygame
+numpy \n
+pygame \n
 
 how to install numpy and pygame
 -------------------------------
