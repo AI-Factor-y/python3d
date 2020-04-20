@@ -412,7 +412,7 @@ axis=(x,y,z) position of origin for this surfaces
 space_translate=(x,y,z) translates the space cordinates origin to a specified value
 
 =return:
---------
+
 
 None
 
