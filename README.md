@@ -1,5 +1,6 @@
 # python3d
-Python library for 3d functions in pygame,documentation available as text file in the 3d directory
+Python library for 3d functions in pygame
+
 	Documentation python3d
 ================================
 
