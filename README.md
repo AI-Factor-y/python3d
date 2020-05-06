@@ -573,4 +573,6 @@ numpy and pygame:
 
 both these libraries are used as standard ones and each of them has their own licenses
 
+this is licensed under [Liscense](LICENSE)
+
 
